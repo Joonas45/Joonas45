@@ -1,2 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joonas45&hide=stars&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Jooans45&show_icons=true&theme=monokai" />
+
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jooans45&theme=monokai" />
 
