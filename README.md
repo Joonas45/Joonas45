@@ -10,6 +10,9 @@
 </a>
 -->
 
+# Hi there, I'm Joonas! :wave:
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%202%20mins-blue)
 
