@@ -15,8 +15,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-<details>
-<summary>**🐱 My GitHub Data**</summary>
+**🐱 My GitHub Data**
 
 > 📦 420 Bytes Used in GitHub's Storage 
  > 
@@ -28,7 +27,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-</details>
 **I'm an Early 🐤** 
 
 ```text
