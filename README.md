@@ -16,13 +16,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 420 Bytes Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2024
+> 🏆 50 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,10 +79,6 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Joonas45/Joonas45/main/assets/bar_graph.png)
-
-
- Last Updated on 08/03/2024 15:29:56 UTC
+ Last Updated on 08/03/2024 UTC
 <!--END_SECTION:waka-->
