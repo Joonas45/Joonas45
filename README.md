@@ -51,13 +51,14 @@ Sunday                   5 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 13 mins        ███████████████░░░░░░░░░░   59.12 % 
+HTML                     51 mins             ██████████░░░░░░░░░░░░░░░   40.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +74,5 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 09/04/2024 UTC
+ Last Updated on 10/04/2024 UTC
 <!--END_SECTION:waka-->
