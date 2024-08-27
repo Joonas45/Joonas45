@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 1.3 kB Used in GitHub's Storage 
+> 📦 1.4 kB Used in GitHub's Storage 
  > 
 > 🏆 56 Contributions in the Year 2024
  > 
@@ -53,13 +53,14 @@ Sunday                   5 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 5 mins         ████████████████████████░   96.72 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -75,5 +76,5 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 26/08/2024 UTC
+ Last Updated on 27/08/2024 UTC
 <!--END_SECTION:waka-->
