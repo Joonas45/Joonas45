@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%207%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,13 +53,17 @@ Sunday                   8 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Elm                      49 mins             ███████████████████░░░░░░   77.68 % 
+Markdown                 11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -75,5 +79,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2025 UTC
+ Last Updated on 15/01/2025 UTC
 <!--END_SECTION:waka-->
