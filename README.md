@@ -53,13 +53,13 @@ Sunday                   8 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CMake                    7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -75,5 +75,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2025 UTC
+ Last Updated on 21/03/2025 UTC
 <!--END_SECTION:waka-->
