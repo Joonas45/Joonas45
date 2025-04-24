@@ -14,11 +14,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2045%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,13 +53,17 @@ Sunday                   8 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        3 hrs 11 mins       ███████████████████░░░░░░   74.09 % 
+Markdown                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 7 mins        ████████████████████████░   95.95 % 
+Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 
 **I Mostly Code in C** 
@@ -73,5 +79,5 @@ Vim Script               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2025 UTC
+ Last Updated on 24/04/2025 UTC
 <!--END_SECTION:waka-->
