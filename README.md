@@ -53,15 +53,13 @@ Sunday                   3 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 6 mins         █████████████████████████   99.05 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -77,5 +75,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2025 UTC
+ Last Updated on 29/05/2025 UTC
 <!--END_SECTION:waka-->
