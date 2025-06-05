@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,13 +53,14 @@ Sunday                   3 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        3 hrs 5 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 39 mins       ██████████████████████░░░   86.01 % 
+Windows                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 ```
 
 **I Mostly Code in C** 
@@ -75,5 +76,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2025 UTC
+ Last Updated on 05/06/2025 UTC
 <!--END_SECTION:waka-->
