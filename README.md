@@ -14,9 +14,13 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2051%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 5.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,5 +75,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 UTC
+ Last Updated on 01/08/2025 UTC
 <!--END_SECTION:waka-->
