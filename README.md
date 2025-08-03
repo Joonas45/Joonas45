@@ -53,13 +53,13 @@ Sunday                   6 commits           █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,5 +75,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2025 UTC
+ Last Updated on 03/08/2025 UTC
 <!--END_SECTION:waka-->
