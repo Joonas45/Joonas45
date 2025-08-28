@@ -20,8 +20,6 @@
 
 > 📦 5.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -75,5 +73,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2025 UTC
+ Last Updated on 28/08/2025 UTC
 <!--END_SECTION:waka-->
