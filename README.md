@@ -14,6 +14,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%207%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 6.2 kB Used in GitHub's Storage 
@@ -76,5 +78,5 @@ Haskell                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 UTC
+ Last Updated on 04/10/2025 UTC
 <!--END_SECTION:waka-->
