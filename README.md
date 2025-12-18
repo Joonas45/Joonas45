@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,7 +53,8 @@ Sunday                   16 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Haskell                  46 mins             █████████████████████████   100.00 % 
+Haskell                  46 mins             █████████████████████████   99.32 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
 Neovim                   46 mins             █████████████████████████   100.00 % 
@@ -75,5 +76,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2025 UTC
+ Last Updated on 18/12/2025 UTC
 <!--END_SECTION:waka-->
