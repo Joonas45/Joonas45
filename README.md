@@ -53,14 +53,13 @@ Sunday                   16 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     26 mins             ████████████████████████░   98.00 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -76,5 +75,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2025 UTC
+ Last Updated on 27/12/2025 UTC
 <!--END_SECTION:waka-->
