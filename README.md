@@ -14,6 +14,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%2028%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 3.4 kB Used in GitHub's Storage 
@@ -76,5 +78,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 UTC
+ Last Updated on 30/05/2026 UTC
 <!--END_SECTION:waka-->
