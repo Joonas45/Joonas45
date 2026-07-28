@@ -14,8 +14,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%204%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 3.4 kB Used in GitHub's Storage 
@@ -62,6 +60,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -75,5 +79,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 UTC
+ Last Updated on 28/07/2026 UTC
 <!--END_SECTION:waka-->
