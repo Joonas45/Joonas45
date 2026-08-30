@@ -53,17 +53,16 @@ Sunday                   19 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-sh                       42 mins             ████████████░░░░░░░░░░░░░   49.50 % 
-Python                   27 mins             ████████░░░░░░░░░░░░░░░░░   32.67 % 
-Lua                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-swayconfig               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+sh                       42 mins             █████████████░░░░░░░░░░░░   53.02 % 
+Python                   27 mins             █████████░░░░░░░░░░░░░░░░   34.99 % 
+Lua                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Neovim                   1 hr 24 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 19 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +84,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 UTC
+ Last Updated on 30/08/2026 UTC
 <!--END_SECTION:waka-->
