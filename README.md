@@ -53,15 +53,13 @@ Sunday                   19 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 32 mins        █████████████████░░░░░░░░   68.75 % 
-sh                       42 mins             ████████░░░░░░░░░░░░░░░░░   31.21 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   1 hr 32 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 14 mins       █████████████████████████   100.00 % 
+Neovim                   1 hr 32 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,5 +81,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 UTC
+ Last Updated on 04/09/2026 UTC
 <!--END_SECTION:waka-->
