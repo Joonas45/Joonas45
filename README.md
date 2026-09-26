@@ -53,8 +53,7 @@ Sunday                   19 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     30 mins             █████████████████████████   98.87 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JSON                     30 mins             █████████████████████████   99.62 % 
 conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
@@ -83,5 +82,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 UTC
+ Last Updated on 26/09/2026 UTC
 <!--END_SECTION:waka-->
