@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -53,17 +53,17 @@ Sunday                   19 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Lua                      2 hrs 50 mins       ████████████████████░░░░░   79.67 % 
-swayconfig               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-PHP                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Lua                      6 hrs 17 mins       ██████████████████████░░░   87.15 % 
+swayconfig               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+PHP                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 34 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +85,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 UTC
+ Last Updated on 19/10/2026 UTC
 <!--END_SECTION:waka-->
