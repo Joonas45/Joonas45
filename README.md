@@ -53,17 +53,17 @@ Sunday                   19 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Lua                      6 hrs 17 mins       ██████████████████████░░░   87.08 % 
-swayconfig               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-PHP                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Lua                      6 hrs 17 mins       ██████████████████████░░░   86.67 % 
+swayconfig               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+PHP                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 13 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +85,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 UTC
+ Last Updated on 21/10/2026 UTC
 <!--END_SECTION:waka-->
