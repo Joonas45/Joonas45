@@ -53,17 +53,17 @@ Sunday                   19 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Lua                      6 hrs 17 mins       █████████████████░░░░░░░░   66.95 % 
-Text                     2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Lua                      3 hrs 26 mins       █████████████░░░░░░░░░░░░   52.78 % 
+Text                     2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.22 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 24 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +85,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 UTC
+ Last Updated on 25/10/2026 UTC
 <!--END_SECTION:waka-->
