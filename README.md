@@ -53,17 +53,17 @@ Sunday                   19 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.93 % 
-tmux                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-swayconfig               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-gtkrc                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Text                     2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.62 % 
+Markdown                 1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   30.61 % 
+tmux                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+swayconfig               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+gtkrc                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 55 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +85,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 UTC
+ Last Updated on 28/10/2026 UTC
 <!--END_SECTION:waka-->
